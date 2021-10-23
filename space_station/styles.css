@@ -1,0 +1,12 @@
+#map{
+    height: 600px;
+    width: 600px;
+    padding-top: 20px;
+}
+
+.header__container{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration:  none;
+    padding-top: 10px;
+}
